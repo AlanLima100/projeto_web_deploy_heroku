@@ -1,0 +1,35 @@
+body{
+   background-color: #341256;
+   color: #ffffff
+   
+   
+   
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+table{
+    border-collapse: collapse;
+    width: 70%;
+    
+}
+
+th, td {
+    text-align: center;
+    padding: 8px;
+}
+tr:nth-child(even){background-color:#c1a2f2;}
+
+th{
+    background-color: #8014e5;
+    color: black;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
